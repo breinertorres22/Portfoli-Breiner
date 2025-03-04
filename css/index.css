@@ -1,0 +1,15 @@
+.centered_title {
+    text-align: center;
+    font-size: 50px;
+}
+.centered_text {
+    text-align: center;
+}
+
+.spacing {
+    margin-bottom: 50px;
+}
+div.cv img {
+   display: block; 
+   margin: auto;
+}
