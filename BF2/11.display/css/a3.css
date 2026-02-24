@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ec1818;
+    color: #fff;
+    padding: 10px ;
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+      
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+    color: #1417e6;
+}
