@@ -1,0 +1,57 @@
+body{
+    margin-left: 750px;
+}
+h2 {
+    margin-bottom: 25px;
+}
+
+div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+    
+section {
+    padding: 0px 30px;
+    max-width: 230px;
+    margin-top: 25px;
+}
+
+.preu {
+    font-weight: bold;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    margin: 0px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #1e6b6b;
+    font-weight: bold;
+}
+
+.Regist {
+    padding: 10px 40px 10px 40px;
+    border: none;
+    background-color: #1e6b6b;
+    color: white;
+    margin-top: 25px;
+}
+
+footer {
+    padding: 30px 30px;
+}
+
+.llista {
+    list-style-type: none;
+}
+  
+.tik{
+    font-weight: bold;
+    color: #1e6b6b;
+    font-size: 20px;
+}

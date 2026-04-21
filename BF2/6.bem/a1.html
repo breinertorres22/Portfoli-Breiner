@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device=width,  initial=scale=1.0">
+        <title>documento</title>
+        <link rel="stylesheet" href="../6.bem/Css/a1.css">
+    </head>
+    <body>
+        <div class="container">
+            <h2>Sistema de Comentarios</h2>
+
+            <form id="commentForm">
+                <label for="name">nombre:</label>
+                <input type="text" id="name" name="name">
+
+                <label for="comment">comentario:</label>
+                <textarea id="comment" name="comment" rows="4 require"></textarea>
+
+                <button type="button" onclick="addcomment ()">enviar comentario</button>
+            </form>
+            <div id="comments" class="comment"></div>
+        </div>
+    </body>
+</html>
